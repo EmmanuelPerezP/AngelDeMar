@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0fb2ae26031609942bbfee8e2f8b7f39
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mariposa: {fileID: 1770229634841218, guid: 36bc2fee62e61ff4d8fedcecdb5256a6, type: 2}
+  - pezGlobo: {fileID: 1879680923650014, guid: 80bbec5e2a55de24ab75798ced399367, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
